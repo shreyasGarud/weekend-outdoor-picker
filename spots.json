@@ -6,6 +6,7 @@
     "duration_hours": 3,
     "distance_km": 10,
     "best_moods": ["chill", "curious"],
+    "best_months": [9,10,11,12,1,2],
     "avoid_if": ["thunderstorm"],
     "description": "Hill fort with the samadhi of Samarth Ramdas Swami, reached by steps or a short drive, with wide valley views."
   },
@@ -16,6 +17,7 @@
     "duration_hours": 3,
     "distance_km": 5,
     "best_moods": ["energetic", "curious"],
+    "best_months": [10,11,12,1,2],
     "avoid_if": ["heavy_rain", "thunderstorm", "extreme_heat"],
     "description": "Fort overlooking Satara city, a good short climb with a city and hills view."
   },
@@ -26,6 +28,7 @@
     "duration_hours": 3,
     "distance_km": 25,
     "best_moods": ["chill", "curious"],
+    "best_months": [8,9,10],
     "avoid_if": ["thunderstorm"],
     "description": "High plateau known for seasonal wildflowers. Check that the flowering season and any entry rules fit your visit."
   },
@@ -36,6 +39,7 @@
     "duration_hours": 3,
     "distance_km": 25,
     "best_moods": ["social", "chill"],
+    "best_months": [7,8,9,10],
     "avoid_if": ["thunderstorm", "extreme_heat"],
     "description": "Cascading falls best seen after the monsoon, with viewpoints near the road."
   },
@@ -46,6 +50,7 @@
     "duration_hours": 2,
     "distance_km": 5,
     "best_moods": ["chill", "curious"],
+    "best_months": [8,9,10],
     "avoid_if": ["heavy_rain"],
     "description": "Riverside temples at the confluence, a calm place for a slow evening walk."
   },
@@ -56,6 +61,7 @@
     "duration_hours": 3,
     "distance_km": 45,
     "best_moods": ["energetic", "social"],
+    "best_months": [7,8,9,10],
     "avoid_if": ["thunderstorm"],
     "description": "Open plateau with rows of wind turbines, popular for the breeze and sunset views."
   }
