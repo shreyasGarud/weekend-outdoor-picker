@@ -81,7 +81,7 @@ ollama pull gemma3:1b
 
 ### 2. Get the code
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/shreyasGarud/weekend-outdoor-picker.git
 cd weekend-outdoor-picker
 python3 -m venv venv
 source venv/bin/activate
@@ -106,7 +106,6 @@ python3 field_notes.py   # leave a tip
 
 ## Using it away from your desk
 
-- **Offline use.** The model, spots, and tips all run locally. If the weather service can't be reached, the app falls back to the last saved forecast, which may be out of date. Plan at home, then download the **trail card** (a plain text summary) to your phone so you can use it with no signal.
 - **From a phone.** Phones only allow location access on secure (HTTPS) pages. For a quick test, you can expose your laptop's app through a free tunnel such as Cloudflare Tunnel. This needs internet on the phone, so it is not an offline setup.
 
 ---
