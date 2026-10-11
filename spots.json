@@ -6,10 +6,25 @@
     "duration_hours": 3,
     "distance_km": 10,
     "area": "Satara",
-    "best_moods": ["chill", "curious"],
-    "best_months": [9,10,11,12,1,2],
-    "avoid_if": ["thunderstorm"],
-    "description": "Hill fort with the samadhi of Samarth Ramdas Swami, reached by steps or a short drive, with wide valley views."
+    "best_moods": [
+      "chill",
+      "curious"
+    ],
+    "best_months": [
+      9,
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "avoid_if": [
+      "thunderstorm"
+    ],
+    "description": "Hill fort with the samadhi of Samarth Ramdas Swami, reached by steps or a short drive, with wide valley views.",
+    "lat": 17.64869,
+    "lon": 73.91579,
+    "radius_m": 300
   },
   {
     "name": "Ajinkyatara Fort",
@@ -18,10 +33,26 @@
     "duration_hours": 3,
     "distance_km": 5,
     "area": "Satara",
-    "best_moods": ["energetic", "curious"],
-    "best_months": [10,11,12,1,2],
-    "avoid_if": ["heavy_rain", "thunderstorm", "extreme_heat"],
-    "description": "Fort overlooking Satara city, a good short climb with a city and hills view."
+    "best_moods": [
+      "energetic",
+      "curious"
+    ],
+    "best_months": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "avoid_if": [
+      "heavy_rain",
+      "thunderstorm",
+      "extreme_heat"
+    ],
+    "description": "Fort overlooking Satara city, a good short climb with a city and hills view.",
+    "lat": 17.67265,
+    "lon": 73.99003,
+    "radius_m": 300
   },
   {
     "name": "Kaas Plateau",
@@ -30,10 +61,22 @@
     "duration_hours": 3,
     "distance_km": 25,
     "area": "Kaas",
-    "best_moods": ["chill", "curious"],
-    "best_months": [8,9,10],
-    "avoid_if": ["thunderstorm"],
-    "description": "High plateau known for seasonal wildflowers. Check that the flowering season and any entry rules fit your visit."
+    "best_moods": [
+      "chill",
+      "curious"
+    ],
+    "best_months": [
+      8,
+      9,
+      10
+    ],
+    "avoid_if": [
+      "thunderstorm"
+    ],
+    "description": "High plateau known for seasonal wildflowers. Check that the flowering season and any entry rules fit your visit.",
+    "lat": 17.71875,
+    "lon": 73.82446,
+    "radius_m": 1000
   },
   {
     "name": "Thoseghar Waterfalls",
@@ -42,10 +85,24 @@
     "duration_hours": 3,
     "distance_km": 25,
     "area": "Thoseghar-Chalkewadi",
-    "best_moods": ["social", "chill"],
-    "best_months": [7,8,9,10],
-    "avoid_if": ["thunderstorm", "extreme_heat"],
-    "description": "Cascading falls best seen after the monsoon, with viewpoints near the road."
+    "best_moods": [
+      "social",
+      "chill"
+    ],
+    "best_months": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "avoid_if": [
+      "thunderstorm",
+      "extreme_heat"
+    ],
+    "description": "Cascading falls best seen after the monsoon, with viewpoints near the road.",
+    "lat": 17.59181,
+    "lon": 73.8279,
+    "radius_m": 300
   },
   {
     "name": "Krishna River at Mahuli",
@@ -54,10 +111,22 @@
     "duration_hours": 2,
     "distance_km": 5,
     "area": "Satara",
-    "best_moods": ["chill", "curious"],
-    "best_months": [8,9,10],
-    "avoid_if": ["heavy_rain"],
-    "description": "Riverside temples at the confluence, a calm place for a slow evening walk."
+    "best_moods": [
+      "chill",
+      "curious"
+    ],
+    "best_months": [
+      8,
+      9,
+      10
+    ],
+    "avoid_if": [
+      "heavy_rain"
+    ],
+    "description": "Riverside temples at the confluence, a calm place for a slow evening walk.",
+    "lat": 17.6917,
+    "lon": 74.05304,
+    "radius_m": 300
   },
   {
     "name": "Chalkewadi Windmills",
@@ -66,22 +135,52 @@
     "duration_hours": 3,
     "distance_km": 45,
     "area": "Thoseghar-Chalkewadi",
-    "best_moods": ["energetic", "social"],
-    "best_months": [7,8,9,10],
-    "avoid_if": ["thunderstorm"],
-    "description": "Open plateau with rows of wind turbines, popular for the breeze and sunset views."
+    "best_moods": [
+      "energetic",
+      "social"
+    ],
+    "best_months": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "avoid_if": [
+      "thunderstorm"
+    ],
+    "description": "Open plateau with rows of wind turbines, popular for the breeze and sunset views.",
+    "lat": 17.59536,
+    "lon": 73.82322,
+    "radius_m": 1000
   },
-    {
+  {
     "name": "Yavteshwar Hill",
     "type": "hill",
     "effort": "easy",
     "duration_hours": 2,
     "distance_km": 6,
     "area": "Satara",
-    "best_moods": ["chill", "energetic"],
-    "best_months": [7,8,9,10,11,12,1,2],
-    "avoid_if": ["thunderstorm"],
-    "description": "Short climb to a temple and viewpoint just outside the city, good for a quick sunrise or sunset visit."
+    "best_moods": [
+      "chill",
+      "energetic"
+    ],
+    "best_months": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "avoid_if": [
+      "thunderstorm"
+    ],
+    "description": "Short climb to a temple and viewpoint just outside the city, good for a quick sunrise or sunset visit.",
+    "lat": 17.69198,
+    "lon": 73.95251,
+    "radius_m": 300
   },
   {
     "name": "Kas Lake",
@@ -90,10 +189,24 @@
     "duration_hours": 2,
     "distance_km": 25,
     "area": "Kaas",
-    "best_moods": ["chill", "curious"],
-    "best_months": [8,9,10,11,12],
-    "avoid_if": ["thunderstorm"],
-    "description": "Quiet lake in the forest near Kaas Plateau, suited to a slow walk and watching the water."
+    "best_moods": [
+      "chill",
+      "curious"
+    ],
+    "best_months": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "avoid_if": [
+      "thunderstorm"
+    ],
+    "description": "Quiet lake in the forest near Kaas Plateau, suited to a slow walk and watching the water.",
+    "lat": 17.72151,
+    "lon": 73.8093,
+    "radius_m": 500
   },
   {
     "name": "Bhambavli Vajrai Waterfall",
@@ -102,10 +215,24 @@
     "duration_hours": 3,
     "distance_km": 30,
     "area": "Kaas",
-    "best_moods": ["energetic", "curious"],
-    "best_months": [8,9,10,11],
-    "avoid_if": ["heavy_rain", "thunderstorm"],
-    "description": "A tall, multi-tier waterfall in the hills past Kaas, best after the monsoon. Check road and access conditions before going."
+    "best_moods": [
+      "energetic",
+      "curious"
+    ],
+    "best_months": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "avoid_if": [
+      "heavy_rain",
+      "thunderstorm"
+    ],
+    "description": "A tall, multi-tier waterfall in the hills past Kaas, best after the monsoon. Check road and access conditions before going.",
+    "lat": 17.70878,
+    "lon": 73.81513,
+    "radius_m": 300
   },
   {
     "name": "Dholya Ganpati and Wai Ghats",
@@ -114,10 +241,31 @@
     "duration_hours": 1,
     "distance_km": 35,
     "area": "Wai",
-    "best_moods": ["chill", "curious"],
-    "best_months": [1,2,3,4,5,6,7,8,9,10,11,12],
-    "avoid_if": ["heavy_rain"],
-    "description": "Historic temples and stone ghats on the Krishna river in Wai, a gentle walk through an old town."
+    "best_moods": [
+      "chill",
+      "curious"
+    ],
+    "best_months": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "avoid_if": [
+      "heavy_rain"
+    ],
+    "description": "Historic temples and stone ghats on the Krishna river in Wai, a gentle walk through an old town.",
+    "lat": 17.95789,
+    "lon": 73.88674,
+    "radius_m": 300
   },
   {
     "name": "Table Land, Panchgani",
@@ -126,10 +274,26 @@
     "duration_hours": 2,
     "distance_km": 50,
     "area": "Panchgani-Mahabaleshwar",
-    "best_moods": ["social", "chill"],
-    "best_months": [10,11,12,1,2,3],
-    "avoid_if": ["thunderstorm", "extreme_heat"],
-    "description": "One of the largest flat plateaus in the region, with open views over the valley and a relaxed hill-station feel."
+    "best_moods": [
+      "social",
+      "chill"
+    ],
+    "best_months": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "avoid_if": [
+      "thunderstorm",
+      "extreme_heat"
+    ],
+    "description": "One of the largest flat plateaus in the region, with open views over the valley and a relaxed hill-station feel.",
+    "lat": 17.9225,
+    "lon": 73.80456,
+    "radius_m": 1000
   },
   {
     "name": "Venna Lake, Mahabaleshwar",
@@ -138,10 +302,27 @@
     "duration_hours": 2,
     "distance_km": 60,
     "area": "Panchgani-Mahabaleshwar",
-    "best_moods": ["social", "chill"],
-    "best_months": [9,10,11,12,1,2,3],
-    "avoid_if": ["heavy_rain", "thunderstorm"],
-    "description": "A popular lake in Mahabaleshwar with boating and a lively walkway, good for a family or friends outing."
+    "best_moods": [
+      "social",
+      "chill"
+    ],
+    "best_months": [
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "avoid_if": [
+      "heavy_rain",
+      "thunderstorm"
+    ],
+    "description": "A popular lake in Mahabaleshwar with boating and a lively walkway, good for a family or friends outing.",
+    "lat": 17.9376,
+    "lon": 73.664,
+    "radius_m": 500
   },
   {
     "name": "Pratapgad Fort",
@@ -150,10 +331,26 @@
     "duration_hours": 4,
     "distance_km": 75,
     "area": "Panchgani-Mahabaleshwar",
-    "best_moods": ["curious", "energetic"],
-    "best_months": [9,10,11,12,1,2],
-    "avoid_if": ["heavy_rain", "thunderstorm"],
-    "description": "Historic hill fort tied to Maratha history, with climbing steps, a temple, and wide views over the Western Ghats."
+    "best_moods": [
+      "curious",
+      "energetic"
+    ],
+    "best_months": [
+      9,
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "avoid_if": [
+      "heavy_rain",
+      "thunderstorm"
+    ],
+    "description": "Historic hill fort tied to Maratha history, with climbing steps, a temple, and wide views over the Western Ghats.",
+    "lat": 17.93731,
+    "lon": 73.57828,
+    "radius_m": 300
   },
   {
     "name": "Bamnoli Shivsagar Backwaters",
@@ -162,10 +359,26 @@
     "duration_hours": 4,
     "distance_km": 35,
     "area": "Kaas",
-    "best_moods": ["chill", "social"],
-    "best_months": [10,11,12,1,2,3],
-    "avoid_if": ["heavy_rain", "thunderstorm"],
-    "description": "Calm backwaters of the Koyna reservoir, known for boat rides and forested shoreline. Confirm boat timings locally."
+    "best_moods": [
+      "chill",
+      "social"
+    ],
+    "best_months": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "avoid_if": [
+      "heavy_rain",
+      "thunderstorm"
+    ],
+    "description": "Calm backwaters of the Koyna reservoir, known for boat rides and forested shoreline. Confirm boat timings locally.",
+    "lat": 17.7355,
+    "lon": 73.75902,
+    "radius_m": 500
   },
   {
     "name": "Vasota Fort",
@@ -174,10 +387,25 @@
     "duration_hours": 8,
     "distance_km": 65,
     "area": "Koyna",
-    "best_moods": ["energetic", "curious"],
-    "best_months": [10,11,12,1,2],
-    "avoid_if": ["heavy_rain", "thunderstorm", "extreme_heat"],
-    "description": "A remote forest fort reached by boat and a long trek, for experienced and well-prepared walkers. Check permissions and conditions first."
+    "best_moods": [
+      "energetic",
+      "curious"
+    ],
+    "best_months": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "avoid_if": [
+      "heavy_rain",
+      "thunderstorm",
+      "extreme_heat"
+    ],
+    "description": "A remote forest fort reached by boat and a long trek, for experienced and well-prepared walkers. Check permissions and conditions first.",
+    "lat": 17.66537,
+    "lon": 73.69718,
+    "radius_m": 300
   }
 ]
-
