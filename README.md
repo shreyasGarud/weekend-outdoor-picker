@@ -26,10 +26,6 @@ I'm from Satara, and I wanted my laptop to tell me where to go this weekend, wit
      Save the image as docs/screenshots/visitor-summary.png and keep the line below. -->
 ![Visitor summary under a stop](docs/screenshots/visitor-summary.png)
 
-<!-- ADD SCREENSHOT 4 HERE (optional): a photo from your real visit, or the app open on your phone.
-     Save the image as docs/screenshots/on-the-trail.jpg and keep the line below. -->
-![On the trail](docs/screenshots/on-the-trail.jpg)
-
 ---
 
 ## What it does
