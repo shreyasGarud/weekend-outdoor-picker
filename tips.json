@@ -12,5 +12,15 @@
     "crowd": "medium",
     "road": "good",
     "tip": "Enjoy a peaceful visit to Sajjangad Fort – it’s a good spot for history buffs, with a manageable crowd."
+  },
+  {
+    "spot": "Kaas Plateau",
+    "date": "2026-10-11",
+    "crowd": "high",
+    "road": "good",
+    "best_time": "evening",
+    "highlight": "views",
+    "tip": "High crowd, good road. Best time: evening. Highlight: views. Nature at its best!",
+    "trigger": "voluntary"
   }
 ]
