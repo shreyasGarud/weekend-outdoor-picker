@@ -22,5 +22,15 @@
     "highlight": "views",
     "tip": "High crowd, good road. Best time: evening. Highlight: views. Nature at its best!",
     "trigger": "voluntary"
+  },
+  {
+    "spot": "Krishna River at Mahuli",
+    "date": "2026-10-11",
+    "crowd": "low",
+    "road": "good",
+    "best_time": "early morning",
+    "highlight": "quiet",
+    "tip": "Low crowd, good road. Best time: early morning. Highlight: quiet.",
+    "trigger": "voluntary"
   }
 ]
